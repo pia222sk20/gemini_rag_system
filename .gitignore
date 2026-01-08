@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+venv/
+rag_env/
+DOC/
+.chroma/
+chroma_data/
